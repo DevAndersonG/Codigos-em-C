@@ -4,6 +4,7 @@ rapidamente. O controle de estoque atual, feito em papel, está se tornando
 ineficiente e propenso a erros. Você foi encarregado de desenvolver um
 sistema simples para gerenciar o estoque, utilizando a linguagem C e o
 conceito de structs.
+
 Desafio:
 Crie um programa em C que utilize structs para representar os produtos em
 estoque. O programa deve permitir:
